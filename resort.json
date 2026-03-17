@@ -1,7 +1,7 @@
 {
   "latest_version": "2.0.0",
-  "version_code": 2,
+  "version_code": 10,
   "force_update": true,
-  "update_message": "App is up to date",
-  "dl_url": "example.com"
+  "update_message": "This version is outdated. Please update the app.",
+  "dl_url": "https://example.com/app/latest.apk"
 }
